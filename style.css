@@ -10,11 +10,15 @@ body {
 
 .countdown {
     text-align: center;
+    padding: 10px;
+    margin: 25px;
 }
 
 #timer {
     font-size: 3rem;
     margin-bottom: 1rem;
+    padding: 10px;
+    margin: 25px;
 }
 
 button {
